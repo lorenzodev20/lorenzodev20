@@ -5,19 +5,37 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;Sobre mí
- - Soy desarrollador de software desde el 2019. Tengo la experiencia en desarrollo de aplicaciones web para pequeñas y medianas empresas, hasta tiendas en línea con carrito de compras.
- - He trabajado en fabricas de software para sistemas de marketing multinivel, sistemas CRM y Sistemas para Fintech.
- - Actualmente me estoy preparando para obtener mi AWS Certified Cloud Practitioner.
+Hola soy, ingeniero en Computación con más de 6 años de experiencia en desarrollo de software, especializado en PHP
+8+ con Laravel en sus últimas versiones, y Node.js. Tengo un enfoque sólido en backend, pruebas unitarias con
+PHPUnit, APIs RESTful, autenticación con OAuth2/JWT, y diseño relacional en MySQL/MariaDB además del
+manejo de consultas complejas y grandes volúmenes de datos. He desarrollado soluciones robustas para
+sectores Fintech, CRM y ERP, integrando múltiples pasarelas de pago (CoinPayments, PayPal, PayU, Alpaca
+Broker) y mejorando procesos de negocio.
+
+Me encuentro en constante formación en herramientas modernas como React Native, Tailwind CSS y Vite.js,
+aplicando también conceptos fundamentales de inteligencia artificial a través del uso de APIs como OpenAI.
+Tengo experiencia en entornos Linux, Git/GitHub/GitLab, y despliegue con Docker. Trabajo de forma
+colaborativa en entornos remotos, siguiendo principios de desarrollo limpio, diseño robusto y buenas
+prácticas de ingeniería de software.
+ 
 
 ### 🛠 &nbsp;Tecnologías con las que trabajo
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+)&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
+)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Bases de Datos
